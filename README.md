@@ -1,6 +1,7 @@
 # **_Projecte Intermodular_**
 Repositori Github per al projecte Intermodular de 2n SMX
 
+Utilitzant **GitHub Projects**, pots organitzar fàcilment els projectes dividint les tasques, assignant-les a membres del grup, i fer seguiment de l’estat en temps real. Això millora la **col·laboració** i la **visibilitat** de l'equip en cada fase del projecte.
 
 ## **1. Crear un repositori i habilitar GitHub Projects**
 
@@ -181,10 +182,4 @@ Per tenir una visió més detallada del progrés, pots utilitzar **milestones** 
 
 * **[GitHub Docs](https://docs.github.com/en)**: Documentació oficial de GitHub Projects  
 * **[GitHub Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects)**: GitHub està millorant la funcionalitat de "Projects" amb noves eines, com les **"Automated workflows"** per a tasques repetitives.
-
-  ---
-
-### **📌 Conclusió**
-
-Utilitzant **GitHub Projects**, pots organitzar fàcilment els projectes dividint les tasques, assignant-les a membres del grup, i fer seguiment de l’estat en temps real. Això millora la **col·laboració** i la **visibilitat** de l'equip en cada fase del projecte.
 
