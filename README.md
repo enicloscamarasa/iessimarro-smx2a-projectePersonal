@@ -157,7 +157,7 @@ Quan crees o edites un **issue**, pots afegir les fites/objectius adequats a cad
 
 ---
 
-## *6. Fer seguiment del projecte**
+## **6. Fer seguiment del projecte**
 
 ### **Pas 6.1: Controlar el progrés**
 
